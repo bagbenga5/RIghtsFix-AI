@@ -2,5 +2,5 @@
   "name": "rightsfix-ai",
   "version": "1.0.0",
   "description": "RightsFix AI — Everyday Justice Navigator UK",
-  "engines": { "node": "18.x" }
+  "engines": { "node": "22.x" }
 }
